@@ -17,16 +17,12 @@ To get an overview of the data: https://sqlitebrowser.org/
 
 To change it with SQL from the BASH: https://sqlite.org/cli.html
 
-``
+```
 apt install sqlite3
-
 sqlite3 /var/lib/grafana/grafana.db
-
 .tables
-
 SELECT data FROM dashboard;
-
 .exit
-``
+```
 
 sqlite-access from Python: https://docs.python.org/3/library/sqlite3.html
