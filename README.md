@@ -9,7 +9,7 @@ The initial discussion: https://community.grafana.com/t/lookup-of-device-ids-for
 Where is Grafana data stored: https://stackoverflow.com/questions/65860003/physical-location-of-grafana-dashboards
 
 * the configuration of the dashboards etc. can usually be found in /var/lib/grafana/grafana.db
-* which is a sqlite-Database with only on entry per dashboard
+* which is a sqlite-Database with only one entry per dashboard
 * the "real" definitions are JSON-encoded in the "data" field of the dashboard-table
 * where there's an element "overrides" which is what we need
 
