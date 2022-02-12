@@ -6,10 +6,10 @@ Collection of scripts and informations regarding automatization of Grafana-tasks
 
 https://github.com/msedv/Grafana/blob/main/showgrafana.py exports the Grafana-Dashboard-Definitions:
 
-``
+```
 python3 showgrafana.py # all dashboards
 python3 showgrafana.py <dashboard-name> # one dashboard
-``
+```
 
 # Changing legends with Python
 
