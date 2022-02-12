@@ -25,6 +25,7 @@ SELECT data FROM dashboard;
 .exit
 ```
 
-But: additional parsing of the JSON-data is needed. Python supports sqlite __and__ JSON de-/encoding thus I built the POC (proof of concept) <parsegrafana.py>.
+But: additional parsing of the JSON-data is needed. Python supports sqlite __and__ JSON de-/encoding thus I built the POC (proof of concept) 
+[parsegrafana.py](https://github.com/msedv/Grafana/Main/parsegrafana.py).
 
 sqlite-access from Python: https://docs.python.org/3/library/sqlite3.html
