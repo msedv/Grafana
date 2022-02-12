@@ -19,9 +19,13 @@ To change it with SQL from the BASH: https://sqlite.org/cli.html
 
 ``
 apt install sqlite3
+
 sqlite3 /var/lib/grafana/grafana.db
+
 .tables
+
 SELECT data FROM dashboard;
+
 .exit
 ``
 
