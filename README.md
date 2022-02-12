@@ -4,7 +4,7 @@ Collection of scripts regarding automatization of Grafana-tasks
 
 # Changing legends with Python
 
-The initial discussion: https://community.grafana.com/t/lookup-of-device-ids-for-legend/60401
+The initial discussion: https://community.grafana.com/t/lookup-of-device-ids-for-legend/60401; more details and How-To for overrides: <https://github.com/msedv/Grafana/blob/main/Grafana%20Overrides.md>.
 
 Where is Grafana data stored: https://stackoverflow.com/questions/65860003/physical-location-of-grafana-dashboards
 
