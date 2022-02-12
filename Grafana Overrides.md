@@ -38,3 +38,5 @@ A view other overrides:
 And the result:
 
 ![GrafanaOverrides10](https://user-images.githubusercontent.com/7942032/153693939-27e48370-f7b7-4fcf-8391-52632851dd2f.png)
+
+Of course it would be a real burden to do that manually in many dashboards/panels for dozens of sensors - particularly because I could to all the mappings automatically. So I digged "a little bit" into the Grafanas data structures and made a [proof of concept ython-script](https://github.com/msedv/Grafana/blob/main/parsegrafana.py) which I could/would extend to automize the process of defining the overrides.
