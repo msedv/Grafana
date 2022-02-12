@@ -1,0 +1,11 @@
+dashboard,panel,from,to
+tasmota-esps,*,TASMOTA_5F101D,Werkstatt
+tasmota-esps,*,TASMOTA_C519B8,Technik SSV
+tasmota-esps,*,TASMOTA_51AF9F,VoIP-DECT-Gateway
+tasmota-esps,*,TASMOTA_5F172F,NodeMCU Pool
+tasmota-esps,*,TASMOTA_DF6B09,NodeMCU Steckbrett
+tasmota-esps,*,TASMOTA_ED779C,Wassertank
+tasmota-esps,*,TASMOTA_C5C7C4,Schwarzes Quadrat
+tasmota-esps,*,TASMOTA_C129FD,Ikea Vindriktning
+tasmota-esps,*,TASMOTA_7A6CD9,Amica mini 
+tasmota-esps,*,TASMOTA_55E55B,Amica mini 
