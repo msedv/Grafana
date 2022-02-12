@@ -5,6 +5,7 @@ Collection of scripts regarding automatization of Grafana-tasks
 # Changing legends with Python
 
 The initial discussion: https://community.grafana.com/t/lookup-of-device-ids-for-legend/60401
+
 Where is Grafana data stored: https://stackoverflow.com/questions/65860003/physical-location-of-grafana-dashboards
 
 * the configuration of the dashboards etc. can usually be found in /var/lib/grafana/grafana.db
@@ -13,6 +14,7 @@ Where is Grafana data stored: https://stackoverflow.com/questions/65860003/physi
 * where there's an element "overrides" which is what we need
 
 To get an overview of the data: https://sqlitebrowser.org/
+
 To change it with SQL from the BASH: https://sqlite.org/cli.html
 
 ``
